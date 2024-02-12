@@ -84,5 +84,6 @@ Data Organization:
  12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5.7 million rows of data for the entire year.
 
 Features Created:
+   New features are created based on 
 
 ![Screenshot 2024-02-05 204105](https://github.com/PemmadiKarthik/pemmadikarthik.github.io/assets/159797209/e478ca1d-d731-4af9-aad5-b88976d0a69f)
