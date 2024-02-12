@@ -76,5 +76,13 @@ Data Organization:
 
   There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
 
+# Processing:
+ PowerQuery is used to combine the various datasets into one dataset and clean it. Powerquery can be used in handeling and managing huge amount of data.
 
+ Combining of data:
 
+ 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5.7 million rows of data for the entire year.
+
+Features Created:
+
+![Screenshot 2024-02-05 204105](https://github.com/PemmadiKarthik/pemmadikarthik.github.io/assets/159797209/e478ca1d-d731-4af9-aad5-b88976d0a69f)
