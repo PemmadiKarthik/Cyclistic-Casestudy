@@ -68,7 +68,7 @@ Questions to be answered by analysis:
    3. How can Cyclistic use digital media to influence casual riders to become members?
 
 # Prepare:
-  # Data Source:
+  Data Source:
   I will use Cyclistic’s historical trip data to analyze and identify trends from Jan 2022 to Dec 2022 which can be downloaded from divvy_tripdata. The data has been made available by Motivate International Inc. under this license.This is public data that can be used to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
   # Data Organization
