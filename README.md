@@ -87,3 +87,6 @@ Features Created:
    New features are created based on 
 
 ![Screenshot 2024-02-05 204105](https://github.com/PemmadiKarthik/pemmadikarthik.github.io/assets/159797209/e478ca1d-d731-4af9-aad5-b88976d0a69f)
+
+# Analyze:
+
