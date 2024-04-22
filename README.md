@@ -90,3 +90,6 @@ Features Created:
 
 # Analyze:
 ![Screenshot 2024-04-22 224735](https://github.com/PemmadiKarthik/pemmadikarthik.github.io/assets/159797209/62c7eeb8-2430-4691-a944-5ce59ed7215f)
+
+![image](https://github.com/PemmadiKarthik/pemmadikarthik.github.io/assets/159797209/7122c035-c97d-4253-9ed7-a1765cf42527)
+
