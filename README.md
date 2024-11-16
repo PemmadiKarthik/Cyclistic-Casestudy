@@ -1,4 +1,4 @@
-# pemmadikarthik.github.io
+# Cyclistic Casestudy
 # Google Data Analytics Professional Certificate
 
 Course: Google Data Analytics Capstone: Complete a Case Study
